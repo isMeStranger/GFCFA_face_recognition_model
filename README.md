@@ -1,9 +1,9 @@
 # GFCFA Face Recognition Model
 
-Face recognition project that combines Gabor filter banks with the Cuttlefish
-Optimization Algorithm (CFA). Gabor filters extract texture-based features from face
-images, and CFA is used to pick the most effective subset of those features before
-classification.
+Face recognition project, and part of my graduation research, that combines Gabor
+filter banks with the Cuttlefish Optimization Algorithm (CFA). Gabor filters extract
+texture-based features from face images, and CFA is used to pick the most effective
+subset of those features before classification.
 
 ## Approach
 
